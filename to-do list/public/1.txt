@@ -1,0 +1,1 @@
+all the static content like css , extra addition to js, images used are kept in the public folder
